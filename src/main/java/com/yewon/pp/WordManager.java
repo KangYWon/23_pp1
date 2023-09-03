@@ -1,6 +1,7 @@
 package com.yewon.pp;
 import java.util.Scanner;
 
+
 //WordCRUD를 이용해서 CRUD 기능을 관리 역할
 public class WordManager {
     Scanner s = new Scanner(System.in);
