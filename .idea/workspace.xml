@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/ICRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
+    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="class 틀만 잡아두고 커밋합니다.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/ICRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -57,6 +53,31 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yewon.pp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yewon.pp.Main" />
+      <module name="PP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yewon.pp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,22 +86,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693572425260</updated>
-      <workItem from="1693572426266" duration="2164000" />
+      <workItem from="1693572426266" duration="5546000" />
     </task>
+    <task id="LOCAL-00001" summary="class 틀만 잡아두고 커밋합니다.">
+      <option name="closed" value="true" />
+      <created>1693716302085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693716302085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/yewon/pp/Main.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="class 틀만 잡아두고 커밋합니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="class 틀만 잡아두고 커밋합니다." />
   </component>
 </project>
