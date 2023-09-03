@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="class 틀만 잡아두고 커밋합니다.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/ICRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="R과 C기능 중 1번 기능까지 완료!&#10;별도로 출력 동일하게 세심한 부분 확인 필요" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693572425260</updated>
-      <workItem from="1693572426266" duration="5546000" />
+      <workItem from="1693572426266" duration="5933000" />
     </task>
     <task id="LOCAL-00001" summary="class 틀만 잡아두고 커밋합니다.">
       <option name="closed" value="true" />
@@ -96,14 +89,34 @@
       <option name="project" value="LOCAL" />
       <updated>1693716302085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="R과 C기능 중 1번 기능까지 완료!&#10;별도로 출력 동일하게 세심한 부분 확인 필요">
+      <option name="closed" value="true" />
+      <created>1693752089458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693752089458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class 틀만 잡아두고 커밋합니다." />
-    <option name="LAST_COMMIT_MESSAGE" value="class 틀만 잡아두고 커밋합니다." />
+    <MESSAGE value="R과 C기능 중 1번 기능까지 완료!&#10;별도로 출력 동일하게 세심한 부분 확인 필요" />
+    <option name="LAST_COMMIT_MESSAGE" value="R과 C기능 중 1번 기능까지 완료!&#10;별도로 출력 동일하게 세심한 부분 확인 필요" />
   </component>
 </project>

@@ -36,5 +36,6 @@ public class WordManager {
                 "********************\n" +
                 "=> 원하는 메뉴는? ");
         return  s.nextInt();
+
     }
 }
