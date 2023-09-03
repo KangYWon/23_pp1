@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="R과 C기능 중 1번 기능까지 완료!&#10;별도로 출력 동일하게 세심한 부분 확인 필요" />
+    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="C와 R구현 (1기능까지)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2UnPZJzS1qQG3vUzaloVq2YCkYc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/kang-yewon/Desktop/23-2/실전프로젝트1/실습/PP1/src/main/java/com/yewon/pp/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kang-yewon/Desktop/23-2/실전프로젝트1/실습/PP1/src/main/java/com/yewon/pp/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.yewon.pp" />
@@ -97,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693752089458</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="처음 commit 몽땅 사라졌는데?">
+      <option name="closed" value="true" />
+      <created>1693752941531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693752941531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="C와 R구현 (1기능까지)">
+      <option name="closed" value="true" />
+      <created>1693753341340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693753341340</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +133,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class 틀만 잡아두고 커밋합니다." />
     <MESSAGE value="R과 C기능 중 1번 기능까지 완료!&#10;별도로 출력 동일하게 세심한 부분 확인 필요" />
-    <option name="LAST_COMMIT_MESSAGE" value="R과 C기능 중 1번 기능까지 완료!&#10;별도로 출력 동일하게 세심한 부분 확인 필요" />
+    <MESSAGE value="처음 commit 몽땅 사라졌는데?" />
+    <MESSAGE value="C와 R구현 (1기능까지)" />
+    <option name="LAST_COMMIT_MESSAGE" value="C와 R구현 (1기능까지)" />
   </component>
 </project>

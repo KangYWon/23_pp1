@@ -52,4 +52,8 @@ public class WordCRUD implements ICRUD{
         }
         System.out.println("---------------------");
     }
+
+    public void printLevelWord(){
+
+    }
 }
