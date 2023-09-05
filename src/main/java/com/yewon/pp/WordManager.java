@@ -14,7 +14,10 @@ public class WordManager {
         System.out.println("***영단어 마스터 ***\n");
         while(true) {
             int menu =  selectMenu();
-            if(menu == 0) break;
+            if(menu == 0) {
+                System.out.println("프로그램 종료! 다음에 만나요~");
+                break;
+            }
             else if(menu == 1){
                 wordCRUD.listAll();
             }
