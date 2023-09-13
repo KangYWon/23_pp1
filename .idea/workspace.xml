@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="selectMuenu 수정">
+    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="Project1 최종본">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" afterDir="false" />
     </list>
@@ -84,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693572425260</updated>
       <workItem from="1693572426266" duration="5933000" />
+      <workItem from="1694597750099" duration="2892000" />
     </task>
     <task id="LOCAL-00001" summary="class 틀만 잡아두고 커밋합니다.">
       <option name="closed" value="true" />
@@ -133,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693874496735</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Project1 최종본">
+      <option name="closed" value="true" />
+      <created>1693879022425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693879022425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +167,7 @@
     <MESSAGE value="C와 R구현 (1기능까지)" />
     <MESSAGE value="2, 3 틀 만들기" />
     <MESSAGE value="selectMuenu 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="selectMuenu 수정" />
+    <MESSAGE value="Project1 최종본" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project1 최종본" />
   </component>
 </project>

@@ -1,14 +1,12 @@
 package com.yewon.pp;
 //데이터 class
 public class Word {
-
     private int id;
     private int level;
     private String word;
     private String meaning;
 
     Word(){ // 기본 초기화
-
     }
     Word(int id, int level, String word, String meaning) {
         this.id = id;

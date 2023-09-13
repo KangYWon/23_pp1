@@ -17,18 +17,21 @@ public class WordManager {
             if(menu == 0) {
                 System.out.println("프로그램 종료! 다음에 만나요~");
                 break;
-            }
-            else if(menu == 1){
+            } else if(menu == 1){
                 wordCRUD.listAll();
-            }
-            else if(menu ==2){
+            } else if(menu ==2){
                 //수준별 단어 출력
-            }
-            else if(menu ==3){
+            } else if(menu ==3){
                 //단어 검색
-            }
-            else if(menu == 4){
+            } else if(menu == 4){
                 wordCRUD.addWord();
+            } else if(menu == 5){
+                //수정
+                wordCRUD.updateItem();
+            } else if(menu == 6){
+                //삭제
+            } else if(menu == 7){
+                //파일 저장
             }
         }
 
