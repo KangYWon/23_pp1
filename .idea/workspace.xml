@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="deleteItem 구현 완료">
+      <change afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kang-yewon/Desktop/23-2/실전프로젝트1/실습/PP1/src/main/java/com/yewon/pp/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/kang-yewon/Desktop/23-2/실전프로젝트1/실습/PP1/src/main/java/com/yewon/pp/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Angular2Html"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.yewon.pp" />
@@ -83,6 +90,7 @@
       <updated>1693572425260</updated>
       <workItem from="1693572426266" duration="5933000" />
       <workItem from="1694597750099" duration="3523000" />
+      <workItem from="1694605230818" duration="1209000" />
     </task>
     <task id="LOCAL-00001" summary="class 틀만 잡아두고 커밋합니다.">
       <option name="closed" value="true" />
@@ -156,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694604575749</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="deleteItem 구현 완료">
+      <option name="closed" value="true" />
+      <created>1694605287605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694605287605</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +199,7 @@
     <MESSAGE value="Project1 최종본" />
     <MESSAGE value="updateItem 기능 구현!" />
     <MESSAGE value="함수명 통일성 주기 위해 addWord -&gt; addItem 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="함수명 통일성 주기 위해 addWord -&gt; addItem 변경" />
+    <MESSAGE value="deleteItem 구현 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleteItem 구현 완료" />
   </component>
 </project>
