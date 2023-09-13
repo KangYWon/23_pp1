@@ -112,6 +112,7 @@ public class WordCRUD implements ICRUD{
             while(true){
                 line = br.readLine();
                 if(line==null) break;
+
                 String data[] = line.split("\\|");
                 int level = Integer.parseInt(data[0]);
                 String word = data[1];
@@ -121,8 +122,6 @@ public class WordCRUD implements ICRUD{
             }
             br.close();
             System.out.println("==> "+count + "개 로딩 완료!!!");
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -130,7 +129,7 @@ public class WordCRUD implements ICRUD{
 
     public void saveFile() {
         try {
-            PrintWriter pr = new PrintWriter(new FileWriter("fname"));
+            PrintWriter pr = new PrintWriter(new FileWriter(fname));
             for(Word one : list){
                 pr.write(one.toFileString() + "\n");
             }

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="2번 searchLevel() 구현">
+    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="코드 정리">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +90,7 @@
       <updated>1693572425260</updated>
       <workItem from="1693572426266" duration="5933000" />
       <workItem from="1694597750099" duration="3523000" />
-      <workItem from="1694605230818" duration="2474000" />
+      <workItem from="1694605230818" duration="4426000" />
     </task>
     <task id="LOCAL-00001" summary="class 틀만 잡아두고 커밋합니다.">
       <option name="closed" value="true" />
@@ -202,7 +204,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694607704786</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="3번 searchWord() 구현">
+      <option name="closed" value="true" />
+      <created>1694607738995</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694607738995</updated>
+    </task>
+    <task id="LOCAL-00016" summary="코드 정리">
+      <option name="closed" value="true" />
+      <created>1694607930326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694607930326</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +252,8 @@
     <MESSAGE value="7번 saveFile() 일단 형태까지만" />
     <MESSAGE value="toFileString() in Word class" />
     <MESSAGE value="2번 searchLevel() 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="2번 searchLevel() 구현" />
+    <MESSAGE value="3번 searchWord() 구현" />
+    <MESSAGE value="코드 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="코드 정리" />
   </component>
 </project>
