@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="함수명 통일성 주기 위해 addWord -&gt; addItem 변경">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" afterDir="false" />
+    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="deleteItem 구현 완료">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
