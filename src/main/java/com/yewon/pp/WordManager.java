@@ -24,7 +24,7 @@ public class WordManager {
             } else if(menu ==3){
                 //단어 검색
             } else if(menu == 4){
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             } else if(menu == 5){
                 //수정
                 wordCRUD.updateItem();
