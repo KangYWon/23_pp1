@@ -22,8 +22,10 @@ public class WordManager {
                 wordCRUD.listAll();
             } else if(menu ==2){
                 //수준별 단어 출력
+                wordCRUD.searchLevel();
             } else if(menu ==3){
                 //단어 검색
+                wordCRUD.searchWord();
             } else if(menu == 4){
                 wordCRUD.addItem();
             } else if(menu == 5){

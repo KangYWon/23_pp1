@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="6번 구현 loadFile()">
+    <list default="true" id="d2d53652-b707-4085-87d3-28603938983a" name="Changes" comment="toFileString() in Word class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yewon/pp/WordManager.java" afterDir="false" />
     </list>
@@ -89,7 +91,7 @@
       <updated>1693572425260</updated>
       <workItem from="1693572426266" duration="5933000" />
       <workItem from="1694597750099" duration="3523000" />
-      <workItem from="1694605230818" duration="1534000" />
+      <workItem from="1694605230818" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="class 틀만 잡아두고 커밋합니다.">
       <option name="closed" value="true" />
@@ -179,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694606550376</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="7번 saveFile() 일단 형태까지만">
+      <option name="closed" value="true" />
+      <created>1694606861192</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694606861192</updated>
+    </task>
+    <task id="LOCAL-00013" summary="toFileString() in Word class">
+      <option name="closed" value="true" />
+      <created>1694606934954</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694606934954</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +226,8 @@
     <MESSAGE value="함수명 통일성 주기 위해 addWord -&gt; addItem 변경" />
     <MESSAGE value="deleteItem 구현 완료" />
     <MESSAGE value="6번 구현 loadFile()" />
-    <option name="LAST_COMMIT_MESSAGE" value="6번 구현 loadFile()" />
+    <MESSAGE value="7번 saveFile() 일단 형태까지만" />
+    <MESSAGE value="toFileString() in Word class" />
+    <option name="LAST_COMMIT_MESSAGE" value="toFileString() in Word class" />
   </component>
 </project>
