@@ -30,6 +30,7 @@ public class WordManager {
                 wordCRUD.updateItem();
             } else if(menu == 6){
                 //삭제
+                wordCRUD.deleteItem();
             } else if(menu == 7){
                 //파일 저장
             }
